@@ -20,3 +20,5 @@ PRODUCT_PACKAGES += \
     libimage-jpeg-enc-omx-comp
 
 $(call inherit-product, vendor/sony/taoshan/taoshan-vendor-blobs.mk)
+
+
