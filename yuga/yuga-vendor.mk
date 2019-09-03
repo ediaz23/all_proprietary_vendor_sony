@@ -46,3 +46,4 @@ PRODUCT_COPY_FILES += \
     vendor/sony/yuga/proprietary/bin/efsks:system/bin/efsks \
     vendor/sony/yuga/proprietary/bin/qcks:system/bin/qcks
 
+

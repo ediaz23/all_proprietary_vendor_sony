@@ -105,3 +105,4 @@ PRODUCT_COPY_FILES += \
     vendor/sony/tsubasa/proprietary/etc/firmware/modem_fw.b29:system/etc/firmware/modem_fw.b29 \
     vendor/sony/tsubasa/proprietary/etc/firmware/modem_fw.mdt:system/etc/firmware/modem_fw.mdt
 
+
